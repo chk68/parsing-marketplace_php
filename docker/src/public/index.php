@@ -3,6 +3,7 @@
 require_once "vendor/autoload.php";
 require_once 'send-mail.php';
 
+
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
@@ -56,7 +57,7 @@ class DataManager
                 mysqli_stmt_close($statement);
 
                 if ($result) {
-                    echo "Added in 'ads_info'.\n";
+                    echo "Added in 'ads_info'.\n"; // это можно убрать
                     sendNewAdNotification($userEmail, $adId);
                 } else {
                     printf("Error: %s\n", mysqli_error($this->connection));
@@ -89,69 +90,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 }
 
 $dataManager->closeConnection();
-?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OlX ads</title>
-    <style>
-        body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
+include '../public/html/index.html';
 
-        form {
-            text-align: center;
-            max-width: 300px;
-            margin: auto;
-        }
 
-        label {
-            display: block;
-            margin-bottom: 10px;
-        }
-
-        input {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 15px;
-            box-sizing: border-box;
-        }
-
-        button {
-            background-color: #007BFF;
-            color: #fff;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        a {
-            display: block;
-            margin-top: 15px;
-            text-decoration: none;
-            color: #007BFF;
-        }
-    </style>
-</head>
-<body>
-<form method="post">
-    <label for="id">ID ad:</label>
-    <input type="text" id="id" name="id" required>
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="email" required>
-    <button type="submit" name="submit">Subscribe</button>
-    <a href="ads-list.php">Ads list</a>
-</form>
-</body>
-</html>
