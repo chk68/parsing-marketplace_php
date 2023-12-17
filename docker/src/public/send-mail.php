@@ -14,11 +14,11 @@ function sendNewAdNotification($userEmail, $adId)
     return sendEmail($mail, $userEmail, $subject, $message);
 }
 
-function sendPriceChangeNotification($userEmail, $adId, $newPrice)
+function sendPriceChangeNotification($userEmail, $adId, $newPrice, $newCurrency)
 {
     $mail = createMailer();
     $subject = "Warning! Price reduced";
-    $message = "The price for $adId has changed. New price: $newPrice UAH\n";
+    $message = "The price for $adId has changed. New price: $newPrice $newCurrency\n";
 
     return sendEmail($mail, $userEmail, $subject, $message);
 }

@@ -48,7 +48,7 @@
         <td><?= $row['id'] ?></td>
         <td><?= $row['ad_id'] ?></td>
         <td><a href='<?= $row['ad_url'] ?>' target='_blank'><?= $row['ad_url'] ?></a></td>
-        <td><?= $row['ad_price'] . " UAH"?></td>
+        <td><?= $row['ad_price'] . " " . $row['currency'] ?></td>
         <td><?= $row['user_email'] ?></td>
     </tr>
     <?php endwhile; ?>
