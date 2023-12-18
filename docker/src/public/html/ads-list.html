@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Список объявлений</title>
+    <title>Ads List</title>
     <style>
         table {
             border-collapse: collapse;
@@ -34,18 +34,16 @@
 <body>
 
 <?php if ($result && mysqli_num_rows($result) > 0) : ?>
-<h2>Список объявлений:</h2>
+<h2>Ads list:</h2>
 <table>
     <tr>
         <th>ID</th>
-        <th>Ad ID</th>
         <th>URL</th>
         <th>Price</th>
         <th>Mail</th>
     </tr>
     <?php while ($row = mysqli_fetch_assoc($result)) : ?>
     <tr>
-        <td><?= $row['id'] ?></td>
         <td><?= $row['ad_id'] ?></td>
         <td><a href='<?= $row['ad_url'] ?>' target='_blank'><?= $row['ad_url'] ?></a></td>
         <td><?= $row['ad_price'] . " " . $row['currency'] ?></td>
@@ -54,11 +52,11 @@
     <?php endwhile; ?>
 </table>
 <?php elseif ($result) : ?>
-<p>Нет объявлений для данного email</p>
+<p>No Ads</p>
 <?php else : ?>
-<p>Ошибка запроса: <?= mysqli_error($connect) ?></p>
+<p>Error for: <?= mysqli_error($connect) ?></p>
 <?php endif; ?>
 
-<a href='../index.php'>На главную</a>
+<a href='../index.php'>Main</a>
 </body>
 </html>

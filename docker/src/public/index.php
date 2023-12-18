@@ -39,7 +39,6 @@ class DataManager
 
     public function addAd($adUrl, $userEmail)
     {
-        // Извлечение adId из adUrl
         $adId = $this->extractAdIdFromHtml(file_get_contents($adUrl));
 
         if ($adId) {
@@ -77,28 +76,24 @@ class DataManager
         }
     }
 
-    private function extractAdIdFromHtml($html)
+    public function extractAdIdFromHtml(string $html)
+
     {
-        // Используем DOMDocument для разбора HTML
         $dom = new DOMDocument;
-        libxml_use_internal_errors(true); // Игнорируем ошибки преобразования HTML в DOM
+        libxml_use_internal_errors(true);
         $dom->loadHTML($html);
         libxml_clear_errors();
 
-        // Ищем элемент <div> с классом css-cgp8kk
         $xpath = new DOMXPath($dom);
         $divElement = $xpath->query('//div[@class="css-cgp8kk"]');
 
-        // Если нашли такой элемент, извлекаем текст
         if ($divElement->length > 0) {
             $text = $divElement->item(0)->textContent;
-            // Используем регулярное выражение для поиска ID внутри текста
             preg_match('/ID: (\d+)/', $text, $matches);
             if (!empty($matches[1])) {
                 return $matches[1];
             }
         }
-
         return false;
     }
 

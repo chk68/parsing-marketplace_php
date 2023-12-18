@@ -1,11 +1,11 @@
 <?php
-
+// не приходит смс для двух одинаковых емейлов.
 require_once 'send-mail.php';
 require_once "vendor/autoload.php";
 
 $connect = mysqli_connect($_ENV["MYSQL_HOST"], $_ENV["MYSQL_USER"], $_ENV["MYSQL_PASSWORD"], $_ENV["MYSQL_DATABASE"]);
 if (mysqli_connect_errno()) {
-    printf("Ошибка подключения: %s\n", mysqli_connect_error());
+    printf("Error: %s\n", mysqli_connect_error());
     exit();
 }
 
@@ -19,7 +19,7 @@ if ($result) {
         $currentCurrency = $row['currency'];
         $userEmail = $row['user_email'];
         if (isset($processedAds[$adId])) {
-            continue; // Пропускаем, если уже обработано
+            continue;
         }
         $adInfo = getAdInfo($adId);
         if ($adInfo !== null) {
@@ -31,6 +31,8 @@ if ($result) {
     }
     mysqli_close($connect);
 }
+
+
 
 function getAdInfo($adId)
 {
