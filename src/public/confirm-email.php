@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-require_once __DIR__ . '/Model/DataManager.php';
+require_once __DIR__ . '/../Model/DataManager.php';
 
 if ($_SERVER["REQUEST_METHOD"] === "GET") {
     $userId = isset($_GET['id']) ? $_GET['id'] : '';

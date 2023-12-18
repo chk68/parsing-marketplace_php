@@ -1,10 +1,10 @@
 <?php
 
-require_once "vendor/autoload.php";
+require_once "../vendor/autoload.php";
 /*require_once 'send-mail.php';*/
-require_once "Model/DataManager.php";
-require_once "Service/Service.php";
-require_once "Controller/Controller.php";
+require_once "../Model/DataManager.php";
+require_once "../Service/Service.php";
+require_once "../Controller/Controller.php";
 
 #TODO видалити помилки
 ini_set('display_errors', 1);
