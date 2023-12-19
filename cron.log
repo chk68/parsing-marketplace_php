@@ -1,0 +1,386 @@
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+Error response from daemon: No such container: tools_php-php
+
+Warning: file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/src/Service/UpdatePriceService.php on line 8
+
+Warning: file_get_contents(https://www.olx.ua/api/v1/targeting/data/?page=ad&params%5Bad_id%5D=808982393): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/src/Service/UpdatePriceService.php on line 8
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+Could not open input file: /var/wxww/public/Utilities/update-prices.php
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30
+
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/src/Model/DataManager.php on line 30

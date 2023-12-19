@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All ads</title>
+    <link rel="stylesheet" href="../Css/ads-list.css">
+</head>
+<body>
+<a href='../index.php' style="color: black; text-decoration: none;">Home</a>
+<?php if ($result && mysqli_num_rows($result) > 0) : ?>
+<h2 style="text-align: center;">Ads list:</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>URL</th>
+        <th>Price</th>
+        <th>Mail</th>
+    </tr>
+    <?php while ($row = mysqli_fetch_assoc($result)) : ?>
+    <tr>
+        <td><?= $row['ad_id'] ?></td>
+        <td><a href='<?= $row['ad_url'] ?>' target='_blank' style="color: black; text-decoration: none;"><?= $row['ad_url'] ?></a></td>
+        <td><?= $row['ad_price'] . " " . $row['currency'] ?></td>
+        <td><?= $row['user_email'] ?></td>
+    </tr>
+    <?php endwhile; ?>
+</table>
+<?php elseif ($result) : ?>
+<p style="text-align: center;">No Ads</p>
+<?php else : ?>
+<p style="text-align: center; color: red;">Error: <?= mysqli_error($connect) ?></p>
+<?php endif; ?>
+</body>
+</html>
