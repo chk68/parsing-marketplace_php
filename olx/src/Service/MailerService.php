@@ -17,12 +17,12 @@ class MailerService
         $this->mail->isSMTP();
         $this->mail->Host = 'smtp.gmail.com';
         $this->mail->SMTPAuth = true;
-        $this->mail->Username = 'innatv40@gmail.com';
-        $this->mail->Password = 'sjuopmrhbdyzrrlx';
+        $this->mail->Username = 'youremail@gmail.com';
+        $this->mail->Password = 'yourpassword';
         $this->mail->SMTPSecure = 'tls';
         $this->mail->Port = 587;
 
-        $this->mail->setFrom('innatv40@gmail.com', 'OLX-Parsing');
+        $this->mail->setFrom('youremail@gmail.com', 'OLX-Parsing');
         $this->mail->isHTML(false);
     }
 
