@@ -43,5 +43,14 @@
     * * * * * docker exec tools_php-php /usr/bin/env php /var/www/public/update-prices.php >> <путь_до_проекту>/olx/cron.log 2>&1
     ```
 
+7. **Mailer Service: налаштування повідомлень на пошту. **
 
+    ```bash
+    olx/src/Service/MailerService.php
+   
+   Username = 'youremail@gmail.com';
+   Password = 'yourpassword';
+   
+   setFrom('youremail@gmail.com', 'OLX-Parsing');
+    ```
 
