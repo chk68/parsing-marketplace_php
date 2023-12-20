@@ -9,4 +9,4 @@ COPY --from=composer /usr/bin/composer /usr/bin/composer
 #     curl \
 #     zip \
 #     vim \
-#     unzip
+#     unzipr
