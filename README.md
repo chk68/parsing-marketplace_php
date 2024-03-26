@@ -1,6 +1,6 @@
 **Parsing the marketplace (in this case olx) with further use of the data.**
 
-The crown checks for price changes, and if there is a change, sends emails about the new price.
+The cron checks for price changes, and if there is a change, sends emails about the new price.
 
 
 
