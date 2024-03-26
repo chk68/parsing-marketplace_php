@@ -1,5 +1,10 @@
+**Parsing the marketplace (in this case olx) with further use of the data.**
 
-1. **Путь:**
+The crown checks for price changes, and if there is a change, sends emails about the new price.
+
+
+
+1. **Path:**
 
     ```bash
     cd docker
@@ -11,7 +16,7 @@
     docker-compose up --build -d
     ```
 
-3. **Налаштування БД:**
+3. **DB Settings:**
 
     ```bash
     1. docker exec -it tools_php-mysql sh
@@ -24,8 +29,7 @@
 
     ```
 
-
-4. **БД http://localhost:8000:**
+4. **DB on http://localhost:8000:**
 
     ```bash
     mysql, user1, s123
@@ -37,13 +41,13 @@
     crontab -e
     ```
 
-6. **Cron: перевірка ціни кожну хвилину. **
+6. **Cron: checking the price of leather quill. **
 
     ```bash
     * * * * * docker exec tools_php-php /usr/bin/env php /var/www/public/update-prices.php >> <путь_до_проекту>/olx/cron.log 2>&1
     ```
 
-7. **Mailer Service: налаштування повідомлень на пошту. **
+7. **Mailer Service: setup notify by mail. **
 
     ```bash
     olx/src/Service/MailerService.php
